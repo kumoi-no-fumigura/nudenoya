@@ -4,7 +4,12 @@
  "repo": "kumoi-no-fumigura/nudenoya",
  "yomi": "ぬでのやちょうかしゅう",
  "category": "私家集",
- "description": null,
+ "description": {
+  "kind": "長歌集（歌会）",
+  "era": "文化13年（1816）頃",
+  "author": "撰 長谷川菅緒",
+  "desc": "宣長の学統の人々が毎月望の日にぬでの舎に集まって詠んだ長歌を、本居大平に見せて良しとされたものから選んだと序にいう。大平・本居建正・城戸千楯・近藤茂広らの作を収める。"
+ },
  "editions": [
   {
    "pid": "993387",
